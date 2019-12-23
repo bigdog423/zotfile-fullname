@@ -8,7 +8,7 @@ Are you a heavy [arxiv.org](https://arxiv.org) user?
 
 do you get tired of `zotfile` default subfolder setting `%w%y` ?
 
-<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6x72a1ltj30p70kxmyq.jpg" width="350" />
+<img border="2" src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6x72a1ltj30p70kxmyq.jpg" width="300" />
 
 it's ugly, right? 
 
@@ -23,6 +23,8 @@ illustrate:
 
 inside `Danqi Chen`subfolder:
 
-<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6xldqmlgj31650gxjtc.jpg" width="550" />
+<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6zej81nzj31230c9wfx.jpg" width="550" />
 
-**wow, awesome!** 
+
+
+**wow**, 3 paper is automatically categorized. **awesome!** 

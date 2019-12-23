@@ -19,12 +19,12 @@ it can automatically categorize articles by the same first author (except for au
 
 illustrate:
 
-<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6y7pplcmj31bg0q6dnc.jpg" width="550" />
+<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6y7pplcmj31bg0q6dnc.jpg" width="600" />
 
 inside `Danqi Chen`subfolder:
 
-<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6zej81nzj31230c9wfx.jpg" width="550" />
+<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6zej81nzj31230c9wfx.jpg" width="600" />
 
 
 
-**wow**, 3 paper is automatically categorized. **awesome!** 
+**wow**, 3 paper is automatically categorized, **awesome!** 

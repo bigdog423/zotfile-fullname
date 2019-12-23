@@ -1,24 +1,28 @@
 # zotfile-fullname
-rename subfolder with author's full name
+rename subfolder with `author_full name`
 
+if you have any problems, plz feel free to contact me [i@yiyangliu.me](mailto://i@yiyangliu.me)
+
+----
 Are you a heavy [arxiv.org](https://arxiv.org) user?
 
-did you get tired of default setting `%w%y` ?
+do you get tired of `zotfile` default subfolder setting `%w%y` ?
 
-![Clip_20191223_201741.png](https://ws1.sinaimg.cn/large/006xRaCrly1ga6x72a1ltj30p70kxmyq.jpg)
+<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6x72a1ltj30p70kxmyq.jpg" width="350" />
 
 it's ugly, right? 
 
-So I changed some code and created a new one.
- 
-![Clip_20191223_200955.png](https://ws1.sinaimg.cn/large/006xRaCrly1ga6wz7dm9tj30ta0pwtd4.jpg)
+----
+So I changed some code of `zotfile` and created an updated version.
 
-result:
+it can automatically categorize articles by the same first author (except for authors with same name).
 
-![Clip_20191223_202759.png](https://ws1.sinaimg.cn/large/006xRaCrly1ga6xhrtpvbj30l80p4myj.jpg)
+illustrate:
 
-inside subfolder:
+<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6y7pplcmj31bg0q6dnc.jpg" width="550" />
 
-![Clip_20191223_203128.png](https://ws1.sinaimg.cn/large/006xRaCrly1ga6xldqmlgj31650gxjtc.jpg)
+inside `Danqi Chen`subfolder:
+
+<img src="https://ws1.sinaimg.cn/large/006xRaCrly1ga6xldqmlgj31650gxjtc.jpg" width="550" />
 
 **wow, awesome!**
